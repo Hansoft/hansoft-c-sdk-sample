@@ -3,7 +3,7 @@ hansoft-c-sdk-sample
 
 About this program
 ------------------
-This sample code demonstrate the usage of the Hansoft C SDK. It is bundled with the Hansoft SDK that can be downloaded from the [Hansoft website] [1]. 
+This sample code demonstrate the usage of the Hansoft C SDK. It is bundled with the Hansoft SDK that can be downloaded from the [Hansoft website][http://www.hansoft.com/support/downloads/]. 
 To be able to compile this program you need the Hansoft SDK DLLs/dylibs that are included in that download. A Visual Studio solution is included for 
 building on WIndows and an Xcode project for building on Mac OS X.
 
